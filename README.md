@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" alt="Girl in a jacket" width=100% height="300">
+<img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" alt="Girl in a jacket" width=100% height="200">
 <h1 align="center">Hi 👋, I'm A Akash Patro</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="Girl in a jacket" width=100% height="400">
